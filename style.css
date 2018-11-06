@@ -104,5 +104,5 @@ figcaption {
   font-size: 1.5em;
 }
 #other-resources section {
-  display: inline;
+  display: inline-block;
 }
